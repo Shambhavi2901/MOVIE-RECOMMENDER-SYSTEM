@@ -19,12 +19,20 @@ We wanted to use a machine learning approach and so we decided to use clustering
 2.Data Preprocessing
 3. Modelling
 ![](PLOTS/WC1.png)
+
 ![](PLOTS/TABLE1.png)
+
 ![](PLOTS/CLUSTER1.png)
+
 ![](PLOTS/WC2.png)
+
 ![](PLOTS/TABLE2.png)
+
 ![](PLOTS/CLUSTER2.png)
+
 ![](PLOTS/WC3.png)
+
 ![](PLOTS/TABLE3.png)
+
 ![](PLOTS/CLUSTER3.png)
 
