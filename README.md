@@ -20,13 +20,9 @@ We wanted to use a machine learning approach and so we decided to use clustering
 3. Modelling
 ![](PLOTS/WC1.png)
 ![](PLOTS/TABLE1.png)
-![](PLOTS/PIECHART1.png)
-![](PLOTS/BARCHART1.png)
+![](PLOTS/Screenshot%20(43).png)
 ![](Plots/WC2.png)
 ![](Plots/TABLE2.png)
-![](Plots/PIECHART2.png)
-![](Plots/BARCHART2(2).png)
 ![](Plots/WC3.png)
 ![](Plots/TABLE3.png)
-![](Plots/PIECHART3.png)
-![](Plots/BARCHART3(2).png)
+
