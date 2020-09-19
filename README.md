@@ -18,10 +18,10 @@ A general approach towards a content basd sytem is that it computes similarity b
 1. Data Cleaning : The very first task was to clean the data so that it would make sense. This included managing null values, dealing with stringified JSON object data, sorting data jumbled across various columns, converting data types of columns for appropriate use.
 1. Data Preprocessing : In order to perform further operations on our text, we need to transform our documents into vector representations such that we can apply numeric machine learning. For vectorization of text corpuses (or columns) "CountVectorizer" and "Tfidfvectorizer"have been used. The vectorized matrix was further used as an input for calculating similarity score between movies. The output for the same was in the form of matrix. The matrix had movies for it's rows as well as columns, each cell representing a similarity score between the movies that belonged to the respective row and column
 1. Modelling : The similariy scores were calculated for:
-1. Overview and taglines : It gives an idea about the storyline and the gist of the movie identifying a certain pattern for the same contributes to the quality of recommendation.
-1. Genre and Keywords: These siginificantly contribute to identifying similar kind of movies.
-1. Cast: Helps in identifying sequels.
-1. Director: Captures inclination towards a certain directing style. 
+ 1. Overview and taglines : It gives an idea about the storyline and the gist of the movie identifying a certain pattern for the same contributes to the quality of  recommendation.
+ 1. Genre and Keywords: These siginificantly contribute to identifying similar kind of movies.
+ 1. Cast: Helps in identifying sequels.
+ 1. Director: Captures inclination towards a certain directing style. 
 The above mentioned matrix was used a an input for the clustering algorithm which divided the movies into three clusters. To further analyse the similarity between movies in the similar cluster visual aid was used. Following are the plots for movie "Spider Man". Plotly was used for visualization of the same. 
 
 ![](PLOTS/WC1.png) <br /><br /><br />
