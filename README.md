@@ -18,7 +18,7 @@ We wanted to use a machine learning approach and so we decided to use clustering
 1.Data Cleaning
 2.Data Preprocessing
 3. Modelling
-![](PLOTS/WC1.png)
+![](PLOTS/WC1.png) <br /><br />
 
 
 ![](PLOTS/TABLE1.png)
