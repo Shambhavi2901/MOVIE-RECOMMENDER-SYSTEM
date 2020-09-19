@@ -33,4 +33,4 @@ The above mentioned matrix was used as an input for the clustering algorithm whi
 ![](PLOTS/CLUSTER3.png)
 
 ## Future scope
-Tfidfvectorizer captures the textual meaning of the data. Today algorithms like BERT and Elmo are present which capture the contextual meaning as well which would certainly enhance the quality of the recommendations.
+Tfidfvectorizer and CountVectorizer capture the textual meaning of the data. Today algorithms like BERT and Elmo are present which capture the contextual meaning as well, which would certainly enhance the quality of the recommendations.
