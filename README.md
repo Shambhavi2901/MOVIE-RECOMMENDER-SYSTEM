@@ -18,22 +18,13 @@ We wanted to use a machine learning approach and so we decided to use clustering
 1.Data Cleaning
 2.Data Preprocessing
 3. Modelling
-![](PLOTS/WC1.png) <br /><br />
-
-
-![](PLOTS/TABLE1.png)
-
-![](PLOTS/CLUSTER1.png)
-
-![](PLOTS/WC2.png)
-
-![](PLOTS/TABLE2.png)
-
-![](PLOTS/CLUSTER2.png)
-
-![](PLOTS/WC3.png)
-
-![](PLOTS/TABLE3.png)
-
+![](PLOTS/WC1.png) <br /><br /><br />
+![](PLOTS/TABLE1.png)<br /><br /><br />
+![](PLOTS/CLUSTER1.png)<br /><br /><br /><br />
+![](PLOTS/WC2.png)<br /><br /><br />
+![](PLOTS/TABLE2.png)<br /><br /><br />
+![](PLOTS/CLUSTER2.png)<br /><br /><br /><br />
+![](PLOTS/WC3.png)<br /><br /><br />
+![](PLOTS/TABLE3.png)<br /><br /><br />
 ![](PLOTS/CLUSTER3.png)
 
