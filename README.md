@@ -5,9 +5,9 @@ The dataset was taken from kaggle you can find it [here](https://www.kaggle.com/
 
 **movies_metadata.csv**: Features include title, posters, backdrops, budget, revenue, release dates, languages, production countries and companies.
 
-**keywords.csv**: Contains the movie plot keywords for our MovieLens movies. Available in the form of a stringified JSON Object.
+**keywords.csv**: Contains the movie plot keywords for the movieLens movies. Available in the form of a stringified JSON Object.
 
-**credits.csv**: Consists of Cast and Crew Information for all our movies. Available in the form of a stringified JSON Object.
+**credits.csv**: Consists of cast and crew Information for all our movies. Available in the form of a stringified JSON Object.
 
 ## Approach:
 A general approach towards a content basd sytem is that it computes similarity between movies based on certain metrics and suggests movies that are most similar to a particular movie that a user liked. On the other hand collaborative methods for recommender systems are methods that are based solely on the past interactions recorded between users and items in order to produce new recommendations. We wanted to do something different and apply a machine learning approach to the system and so we decided to use clustering. The goal for this NLP project was to divide the similarity score based recommendations of a movie into separate clusters(using Kmeans clustering) and then use text analysis to determine various attributes of movies each cluster recommends. The recommender system takes movie title as an input and returns three different bags of movies. So the process like any other ML project involved three steps :
