@@ -1,7 +1,7 @@
 # MOVIE-RECOMMENDER-SYSTEM
 A movie recommender system is used to recommend movies to users based on various factors. There are primarily two types of recommender systems, content based systems and collaborative systems. 
 ## Dataset:
-The dataset was taken from kaggle you can find it [here](https://www.kaggle.com/rounakbanik/the-movies-dataset). The link for our kaggle notebook is [here](https://www.kaggle.com/aadarsh168/movie-recommender). These files contain metadata for all 45,000 movies listed in the Full MovieLens Dataset. Data points include cast, crew, plot keywords, budget, revenue, posters, release dates, languages, production companies, countries, TMDB vote counts and vote averages and ratings.
+The dataset was taken from Kaggle you can find it [here](https://www.kaggle.com/rounakbanik/the-movies-dataset). The link for our Kaggle Notebook is [here](https://www.kaggle.com/aadarsh168/movie-recommender). These files contain metadata for all 45,000 movies listed in the Full MovieLens Dataset. Data points include cast, crew, plot keywords, budget, revenue, posters, release dates, languages, production companies, countries, TMDB vote counts and vote averages and ratings.
 
 **movies_metadata.csv**: Features include title, posters, backdrops, budget, revenue, release dates, languages, production countries and companies.
 
